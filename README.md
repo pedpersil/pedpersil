@@ -49,6 +49,7 @@ Desenvolvedor Web | PHP • Laravel • MySQL • Bootstrap • HTML5 • CSS3 �
 
 ## 🧩 Projetos em Destaque
 
+- 🔹 [Classificados Taperoá](https://github.com/pedpersil/classificados)  
 - 🔹 [Sistema de Consultório Odontológico](https://github.com/pedpersil/sistema_odontologico)  
 - 🔹 [Sistema de Monitoramento e Estatísticas](https://github.com/pedpersil/monitoramento_estatisticas)  
 - 🔹 [Sistema de Controle Financeiro Pessoal](https://github.com/pedpersil/sistema_financeiro)
