@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Pedro Silva! 👨‍💻</h1>
 
 <p align="center">
-Desenvolvedor Web | PHP • Laravel • MySQL • Bootstrap • HTML5 • CSS3 • JavaScript
+Desenvolvedor Web | PHP • MariaDB • MySQL • Bootstrap • HTML5 • CSS3 • JavaScript
 </p>
 
 <p align="center">
