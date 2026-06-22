@@ -6,7 +6,7 @@ Desenvolvedor Web | PHP • MariaDB • MySQL • Bootstrap • HTML5 • CSS3 �
 
 <p align="center">
   <a href="https://pedrosilva.tech" target="_blank">🌐 Meu Site</a> •
-  <a href="mailto:contato@pedrosilva.tech" target="_blank">📧 E-mail</a> •
+  <a href="mailto:pedpersil@gmail.com" target="_blank">📧 E-mail</a> •
   <a href="https://www.linkedin.com/in/pedrosilva-dev/" target="_blank">🔗 LinkedIn</a>
 </p>
 
