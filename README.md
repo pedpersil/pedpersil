@@ -15,7 +15,7 @@ Desenvolvedor Web | PHP • MariaDB • MySQL • Bootstrap • HTML5 • CSS3 �
 ## 🚀 Sobre mim
 
 - 🎓 Formado em Técnico de Informática pelo CEFET-BA e Licenciado em Computação pelo IFBA - Valença.
-- 🔥 Especialista em desenvolvimento web moderno com PHP 8+, Laravel, MySQL, Bootstrap, HTML5, CSS3 e JavaScript.
+- 🔥 Especialista em desenvolvimento web moderno com PHP 8+, MySQL, Bootstrap, HTML5, CSS3 e JavaScript.
 - 🛠️ Apaixonado por criar sistemas personalizados que otimizam processos e transformam ideias em realidade.
 - 💡 Sempre buscando inovação, melhoria contínua e melhores práticas no desenvolvimento de software.
 
@@ -25,7 +25,6 @@ Desenvolvedor Web | PHP • MariaDB • MySQL • Bootstrap • HTML5 • CSS3 �
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/PHP-8.2-blue" />
-  <img src="https://img.shields.io/badge/Laravel-10-red" />
   <img src="https://img.shields.io/badge/MySQL-8-blue" />
   <img src="https://img.shields.io/badge/Bootstrap-5.3-purple" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
